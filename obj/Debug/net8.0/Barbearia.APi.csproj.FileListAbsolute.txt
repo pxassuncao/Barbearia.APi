@@ -135,3 +135,4 @@ C:\Users\miras\Desktop\Barbearia\Barbearia.APi\obj\Debug\net8.0\refint\Barbearia
 C:\Users\miras\Desktop\Barbearia\Barbearia.APi\obj\Debug\net8.0\Barbearia.APi.pdb
 C:\Users\miras\Desktop\Barbearia\Barbearia.APi\obj\Debug\net8.0\Barbearia.APi.genruntimeconfig.cache
 C:\Users\miras\Desktop\Barbearia\Barbearia.APi\obj\Debug\net8.0\ref\Barbearia.APi.dll
+C:\Users\miras\Desktop\Barbearia\Barbearia.APi\obj\Debug\net8.0\Barbearia.APi.sourcelink.json
