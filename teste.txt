@@ -1,0 +1,30 @@
+{
+  "agendamentoID": 0,
+  "dataHora": "2024-08-15T14:31:42.014Z",
+  "observacoes": "cabelo e barba",
+  "status": 1,
+  "clienteId":2,
+  "cliente": {
+   "clienteId": 2,
+    "nome": "Catarina Guerra",
+    "telefone": "981124563",
+    "email": "catarinsguerra@gmail.com",
+    "dataNascimento": "2014-03-05T00:00:00"
+  },
+  "servicos": [
+    {
+      "id": 1,
+    "nomeServico": "corte de cabelo",
+    "descricao": "apenas na máquina",
+    "duracaoMin": 30,
+    "preco": 20
+    },
+   {
+     "id": 2,
+  "nomeServico": "Luzes",
+  "descricao": "Luzes no cabelo e barba",
+  "duracaoMin": 120,
+  "preco": 150
+   }
+  ]
+}
