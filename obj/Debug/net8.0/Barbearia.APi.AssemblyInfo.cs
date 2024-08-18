@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Barbearia.APi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afb335edd78dd31625c2670f6430e56fb54618b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30652593d066802f6e80788dc5299e66de431568")]
 [assembly: System.Reflection.AssemblyProductAttribute("Barbearia.APi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Barbearia.APi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
