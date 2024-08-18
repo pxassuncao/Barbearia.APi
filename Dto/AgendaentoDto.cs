@@ -14,5 +14,5 @@ public class AgendaentoDto
         public int Status { get; set; }
         public Cliente Cliente { get; set; }
         public virtual ICollection<Servico>Servicos{get; set;}
-
+        public int ClenteId { get; internal set; }
 }
